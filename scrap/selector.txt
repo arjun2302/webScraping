@@ -1,0 +1,1 @@
+const title = $('div[class="_d_t_det"] > div > div > h1').text().trim()
